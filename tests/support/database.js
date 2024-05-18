@@ -1,10 +1,10 @@
 const { Pool } = require('pg')
 
 const DbConfig = {
-    user: 'msgnvjct',
-    host: 'isabelle.db.elephantsql.com',
-    database: 'msgnvjct',
-    password: '9Z5JYKodHQPWNVyF70BXUotYty6HsLYj',
+    user: 'postgres',
+    host: 'postgres',
+    database: 'playwright_zombie',
+    password: '123456',
     port: 5432
 }
 
